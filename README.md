@@ -4,20 +4,26 @@
 
 ###
 
-<div align="center">
-  <a href="mailto:supawit.sik@student.mahidol.edu@?subject=Inquiry%20from%20GitHub&body=Hi%20there,%0A%0AI%20saw%20your%20profile%20and%20wanted%20to%20reach%20out."><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
-  <a href="https://www.linkedin.com/in/supawit-sirikulpiboon-836ba8390/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
-
-###
-
 <h1 align="center">Hi 👋, I'm Riew</h1>
 <h3 align="center">ICT student at Mahidol University | Full-stack developer in training</h3>
 
 - 📚 Studying Information and Communication Technology (ICT) at Mahidol University
 - 💻 Building full-stack apps with the JavaScript/TypeScript ecosystem
 - 🔧 Comfortable across frontend, backend, database, and DevOps basics
-- 📫 Reach me: [Gmail](mailto:supawit.sik@student.mahidol.edu) · [LinkedIn](https://www.linkedin.com/in/supawit-sirikulpiboon-836ba8390/)
+
+- 📫 **Reach me:**
+
+<div align="center">
+  <a href="mailto:supawit.sik@student.mahidol.ac.th?subject=Inquiry%20from%20GitHub&body=Hi%20there,%0A%0AI%20saw%20your%20profile%20and%20wanted%20to%20reach%20out.">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/supawit-sirikulpiboon-836ba8390/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin logo" />
+  </a>
+  <a href="https://github.com/RiywSu01">
+    <img src="https://img.shields.io/static/v1?message=Open%20to%20opportunities&label=&color=2EA44F&labelColor=&style=for-the-badge" height="28" alt="open to opportunities badge" />
+  </a>
+</div>
 
 ---
 
