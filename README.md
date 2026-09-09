@@ -1,3 +1,11 @@
+###
+
+<div align="center">
+  <img height="200" width="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXEyenI5MTVtM2x1NXV1ejU2YzMxcjIxeTg4OHgxNWdndzdkaXh6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif"  />
+</div>
+
+###
+
 <h1 align="center">Hi 👋, I'm Riew</h1>
 <h3 align="center">ICT student at Mahidol University | Full-stack developer in training</h3>
 
