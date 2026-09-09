@@ -40,8 +40,3 @@
 **APIs:** ![FatSecret](https://img.shields.io/badge/-FatSecret_API-4CAF50?logo=api&logoColor=white) ![Gemini](https://img.shields.io/badge/-Google_Gemini_API-8E75B2?logo=googlegemini&logoColor=white)
 
 ---
-
-## 📊 GitHub stats
-
-![Riew's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiywSu01&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiywSu01&layout=compact)
