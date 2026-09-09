@@ -11,25 +11,31 @@
 
 ###
 
+<h1 align="center">Hi 👋, I'm Riew</h1>
+<h3 align="center">ICT student at Mahidol University | Full-stack developer in training</h3>
 
+- 📚 Studying Information and Communication Technology (ICT) at Mahidol University
+- 💻 Building full-stack apps with the JavaScript/TypeScript ecosystem
+- 🔧 Comfortable across frontend, backend, database, and DevOps basics
+- 📫 Reach me: [Gmail](mailto:supawit.sik@student.mahidol.edu) · [LinkedIn](https://www.linkedin.com/in/supawit-sirikulpiboon-836ba8390/)
 
-###
+---
 
-<h1 align="center">Hi 👋, My name is Riew.</h1>
+### 🛠 Languages & tools
 
-###
+**Frontend:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
 
-<h3 align="left">👩‍💻  About Me</h3>
+**Backend:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
 
-###
+**Database:** ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 
-<p align="left">📚 Currently study at Mahidol University as information and commuication technology (ICT) faculty.
+**Tools & DevOps:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-###
+**APIs:** ![FatSecret](https://img.shields.io/badge/-FatSecret_API-4CAF50?logo=api&logoColor=white) ![Gemini](https://img.shields.io/badge/-Google_Gemini_API-8E75B2?logo=googlegemini&logoColor=white)
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,mysql,py,git,prisma,figma,express,nextjs,react,nestjs" height="40" alt="My Tech Stack" />
-</div>
+## 📊 GitHub stats
+
+![Riew's GitHub stats](https://github-readme-stats.vercel.app/api?username=RiywSu01&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiywSu01&layout=compact)
