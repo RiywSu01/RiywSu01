@@ -64,7 +64,7 @@ A full-stack nutrition-tracking web app with AI-powered food logging. Integrates
 <tr>
 <td width="100%">
 
-#### 🏨 [BackEnd-Project-Y3](https://github.com/RiywSu01/BackEnd-Project-Y3)
+#### 🏨 [HotelMangementSystem-NestJS](https://github.com/RiywSu01/HotelMangementSystem-NestJS)
 
 A hotel booking REST API system with event-driven notifications and production-style deployment. Built to practice backend architecture end-to-end — auth, caching, testing, and reverse-proxy deployment.
 
