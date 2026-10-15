@@ -26,8 +26,6 @@
 
 **Tools & DevOps:** ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
 
-**APIs:** ![FatSecret](https://img.shields.io/badge/-FatSecret_API-4CAF50?logo=api&logoColor=white) ![Gemini](https://img.shields.io/badge/-Google_Gemini_API-8E75B2?logo=googlegemini&logoColor=white)
-
 ---
 ### 📌 Featured projects
 
